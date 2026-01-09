@@ -2,6 +2,7 @@
 using namespace std;
 int main (){
 
+    //These are the primitive data types in C++
 
     //int means whole number without decimal point
     int number = 42;
