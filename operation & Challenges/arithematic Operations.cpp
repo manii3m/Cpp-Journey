@@ -19,7 +19,7 @@ int main (){
         discounted_price = total_cost - (total_cost * 0.05);
         cout << "Total cost after discount is : " << discounted_price << endl;
     } else {
-        cout << "Total cost is : " << total_cost << endl;
+        cout << "Total cost is : " << total_cost << " (Sorry No discount below 100) " << endl;
     }
 
     
